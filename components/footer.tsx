@@ -19,11 +19,11 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-4 md:mb-0">
             <p className="text-lg font-bold text-primary">
-              Memory<span className="text-destructive">Leaked</span>
+              Prince<span className="text-destructive">Tarun</span>
             </p>
           </div>
           <div className="text-center md:text-right flex flex-col md:flex-row items-center gap-4">
-            <p className="text-muted-foreground">© {currentYear} MemoryLeaked. All rights reserved.</p>
+            <p className="text-muted-foreground">© {currentYear} Tarun06. All rights reserved.</p>
             <Button
               variant="outline"
               size="icon"

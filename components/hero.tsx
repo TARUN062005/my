@@ -71,7 +71,7 @@ export default function Hero() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.5 }}>
             <h1 className="text-4xl md:text-6xl font-bold mb-4">
-              Hi, I'm <span className="text-primary">MemoryLeaked</span>
+              Hi, I'm <span className="text-primary">VEMURI PRINCE TARUN</span>
             </h1>
             <h2 className="text-2xl md:text-3xl font-medium text-muted-foreground mb-6 h-[40px]">
               <span className="text-foreground">{text}</span>
@@ -80,8 +80,8 @@ export default function Hero() {
               </span>
             </h2>
             <p className="text-lg text-muted-foreground mb-8 max-w-lg">
-              I build exceptional digital experiences with clean code and modern technologies. Turning complex problems
-              into elegant solutions is what I do best.
+            Full Stack Developer & UI/UX Enthusiast, I build exceptional digital experiences with clean code and modern technologies. Turning complex problems
+            into elegant solutions is what I do best.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4">
@@ -96,17 +96,17 @@ export default function Hero() {
 
             <div className="flex gap-4 mt-8">
               <Button variant="ghost" size="icon" className="rounded-full hover:bg-primary/10" asChild>
-                <a href="https://github.com" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+                <a href="https://github.com/TARUN062005" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
                   <Github className="h-5 w-5" />
                 </a>
               </Button>
               <Button variant="ghost" size="icon" className="rounded-full hover:bg-primary/10" asChild>
-                <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+                <a href="https://www.linkedin.com/in/vemuri-prince-tarun-9b8821326" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
                   <Linkedin className="h-5 w-5" />
                 </a>
               </Button>
               <Button variant="ghost" size="icon" className="rounded-full hover:bg-primary/10" asChild>
-                <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" aria-label="Twitter">
+                <a href="https://x.com/princet40578627" target="_blank" rel="noopener noreferrer" aria-label="Twitter">
                   <Twitter className="h-5 w-5" />
                 </a>
               </Button>
@@ -123,7 +123,7 @@ export default function Hero() {
             <div className="absolute inset-4 bg-muted rounded-full overflow-hidden">
               <img
                 src="/placeholder.svg?height=400&width=400"
-                alt="MemoryLeaked"
+                alt="Tarun06"
                 className="w-full h-full object-cover"
               />
             </div>

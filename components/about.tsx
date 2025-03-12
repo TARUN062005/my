@@ -39,9 +39,14 @@ export default function About() {
           >
             <h3 className="text-2xl font-bold mb-4">A Passionate Developer</h3>
             <p className="text-muted-foreground mb-6">
-              I'm a software developer with a passion for creating clean, efficient, and user-friendly applications.
-              With over 5 years of experience in the industry, I've worked on a variety of projects ranging from small
-              business websites to complex enterprise applications.
+            Aspiring Software Engineer | CSE Student | DSA Enthusiast.
+              Hello! I’m currently a second-year Computer Science and Engineering student, passionately diving into the world of technology and software development.
+    My journey is focused on mastering Data Structures and Algorithms (DSA), as I believe they are the backbone of efficient programming and problem-solving.
+    I’m actively enhancing my skills in full-stack development, exploring various programming languages and frameworks to create innovative solutions.
+    I enjoy tackling complex problems and turning ideas into functional applications.
+     I'm always eager to learn and grow, whether through collaborative projects, internships, or personal coding challenges.
+    My goal is to leverage my skills to contribute to impactful tech projects and eventually make a mark in the industry.
+     Let’s connect! I’m excited to network with fellow tech enthusiasts, share knowledge, and explore new opportunities together.
             </p>
             <p className="text-muted-foreground mb-6">
               My journey in software development began when I was in college, where I discovered my love for solving
@@ -71,8 +76,8 @@ export default function About() {
                     <div>
                       <h4 className="text-xl font-semibold mb-2">Clean Code</h4>
                       <p className="text-muted-foreground">
-                        I write maintainable, scalable, and efficient code following best practices and industry
-                        standards.
+                      I write maintainable, scalable, and efficient code following best practices and upto some 
+                      standards.
                       </p>
                     </div>
                   </div>

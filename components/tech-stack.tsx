@@ -18,7 +18,7 @@ export default function TechStack() {
         { name: "C++", level: 90 },
         { name: "C", level: 85 },
         { name: "Java", level: 88 },
-        { name: "Ruby", level: 82 },
+        { name: "Rust", level: 30 },
         { name: "Python", level: 85 },
         { name: "TypeScript", level: 90 },
         { name: "JavaScript", level: 90 },
@@ -46,7 +46,6 @@ export default function TechStack() {
         { name: "Next.js", level: 85 },
         { name: "HTML/CSS", level: 95 },
         { name: "Tailwind CSS", level: 95 },
-        { name: "Redux", level: 85 },
         { name: "WebGL", level: 75 },
       ],
     },
@@ -58,7 +57,6 @@ export default function TechStack() {
         { name: "Node.js", level: 85 },
         { name: "Express", level: 80 },
         { name: "Spring Boot", level: 85 },
-        { name: "Ruby on Rails", level: 80 },
       ],
     },
     database: {
@@ -69,7 +67,6 @@ export default function TechStack() {
         { name: "MongoDB", level: 85 },
         { name: "PostgreSQL", level: 80 },
         { name: "MySQL", level: 75 },
-        { name: "Redis", level: 70 },
       ],
     },
     tools: {
@@ -78,7 +75,7 @@ export default function TechStack() {
       description: "Tools and environments for development",
       skills: [
         { name: "Git", level: 90 },
-        { name: "Docker", level: 80 },
+        { name: "Vercel", level: 80 },
         { name: "AWS", level: 75 },
         { name: "Linux/Unix", level: 85 },
         { name: "CMake", level: 80 },

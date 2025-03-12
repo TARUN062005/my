@@ -15,46 +15,46 @@ export default function Testimonials() {
   const testimonials = [
     {
       id: 1,
-      name: "Sarah Johnson",
-      position: "Product Manager at TechCorp",
+      name: "B. Sai Ram",
+      position: "Friend",
       content:
-        "Working with MemoryLeaked was an absolute pleasure. They delivered our project on time and exceeded our expectations in terms of quality and functionality. Their attention to detail and problem-solving skills are exceptional.",
+        "Tarun06 is a great developer. He was my project partner and also my friend. He has a great knowledge in coding.",
       rating: 5,
       image: "/placeholder.svg?height=100&width=100",
     },
     {
       id: 2,
-      name: "Michael Chen",
-      position: "CTO at StartupX",
+      name: "M. Sandeep",
+      position: "Friend",
       content:
-        "MemoryLeaked helped us rebuild our entire platform from the ground up. Their technical expertise and ability to understand our business needs resulted in a product that has significantly improved our user engagement and conversion rates.",
+        "Tarun06 was a great friend. He helped me in my projects and also in my personal life.",
       rating: 5,
       image: "/placeholder.svg?height=100&width=100",
     },
     {
       id: 3,
-      name: "Emily Rodriguez",
-      position: "Founder of DesignHub",
+      name: "G.Sai",
+      position: "Friend",
       content:
-        "I was impressed by MemoryLeaked's ability to translate our design vision into a fully functional website. They were responsive, professional, and provided valuable suggestions that improved the overall user experience.",
+        "Tarun06 has been a great mentor and friend. He has helped me improve my coding skills and provided valuable advice on my projects.",
       rating: 4.5,
       image: "/placeholder.svg?height=100&width=100",
     },
     {
       id: 4,
-      name: "David Kim",
-      position: "Marketing Director at GrowthCo",
+      name: "Sk.Anees Ahmeed",
+      position: "Friend",
       content:
-        "MemoryLeaked developed a custom analytics dashboard for our marketing team that has transformed how we track and optimize our campaigns. Their solution was elegant, intuitive, and exactly what we needed.",
+        "Tarun06 Face Recognition System was a absolutely incredible site.",
       rating: 5,
       image: "/placeholder.svg?height=100&width=100",
     },
     {
       id: 5,
-      name: "Lisa Patel",
-      position: "E-commerce Manager at RetailPlus",
+      name: "Y.Gagan",
+      position: "Friend",
       content:
-        "The e-commerce platform developed by MemoryLeaked has been a game-changer for our business. It's fast, secure, and our customers love the seamless shopping experience. We've seen a 40% increase in online sales since launch.",
+        "The e-commerce platform developed by Tarun06 has been a game-changer business. ",
       rating: 4.5,
       image: "/placeholder.svg?height=100&width=100",
     },
@@ -90,7 +90,7 @@ export default function Testimonials() {
           <Badge variant="outline" className="mb-4">
             Testimonials
           </Badge>
-          <h2 className="text-3xl md:text-4xl font-bold mb-4">Client Satisfaction</h2>
+          <h2 className="text-3xl md:text-4xl font-bold mb-4">Self Satisfaction</h2>
           <div className="w-20 h-1 bg-primary mx-auto"></div>
         </motion.div>
 

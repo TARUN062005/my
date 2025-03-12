@@ -55,19 +55,19 @@ export default function Contact() {
     {
       icon: <Mail className="h-6 w-6 text-primary" />,
       title: "Email",
-      value: "contact@memoryleaked.dev",
-      link: "mailto:contact@memoryleaked.dev",
+      value: "princetarunvemuri@gmail.com",
+      link: "mailto:princetarunvemuri@gmail.com",
     },
     {
       icon: <Phone className="h-6 w-6 text-primary" />,
       title: "Phone",
-      value: "+44 (123) 456-7890",
-      link: "tel:+441234567890",
+      value: "+91 9550186473",
+      link: "tel:+919550186473",
     },
     {
       icon: <MapPin className="h-6 w-6 text-primary" />,
       title: "Location",
-      value: "Manchester, England",
+      value: "Eluru, Andhra Pradesh, India",
       link: null,
     },
   ]
@@ -108,7 +108,7 @@ export default function Contact() {
                       <Input
                         id="name"
                         name="name"
-                        placeholder="John Doe"
+                        placeholder="Prince Tarun"
                         value={formData.name}
                         onChange={handleChange}
                         required
@@ -120,7 +120,7 @@ export default function Contact() {
                         id="email"
                         name="email"
                         type="email"
-                        placeholder="john@example.com"
+                        placeholder="Tarun@example.com"
                         value={formData.email}
                         onChange={handleChange}
                         required
@@ -191,17 +191,17 @@ export default function Contact() {
                   <h4 className="text-lg font-semibold mb-4">Follow Me</h4>
                   <div className="flex gap-4">
                     <Button variant="outline" size="icon" className="rounded-full hover:bg-primary/10" asChild>
-                      <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+                      <a href="https://www.linkedin.com/in/vemuri-prince-tarun-9b8821326" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
                         <Linkedin className="h-5 w-5" />
                       </a>
                     </Button>
                     <Button variant="outline" size="icon" className="rounded-full hover:bg-primary/10" asChild>
-                      <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" aria-label="Twitter">
+                      <a href="https://x.com/princet40578627" target="_blank" rel="noopener noreferrer" aria-label="Twitter">
                         <Twitter className="h-5 w-5" />
                       </a>
                     </Button>
                     <Button variant="outline" size="icon" className="rounded-full hover:bg-primary/10" asChild>
-                      <a href="https://github.com" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+                      <a href="https://github.com/TARUN062005" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
                         <Github className="h-5 w-5" />
                       </a>
                     </Button>
